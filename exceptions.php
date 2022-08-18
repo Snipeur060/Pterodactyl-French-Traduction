@@ -57,3 +57,4 @@ return [
         'resource_not_found' => 'La ressource demandée n\'existe pas sur ce serveur.',
     ],
 ];
+
