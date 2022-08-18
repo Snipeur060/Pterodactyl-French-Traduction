@@ -93,3 +93,4 @@ return [
     'save' => 'Enregistrer',
     'copyright' => '&copy; 2015 - :year Pterodactyl Software',
 ];
+
