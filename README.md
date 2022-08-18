@@ -36,3 +36,11 @@ This project is licensed under the GNU Lesser General Public License v3.0
 
 Pour me supportez une petite étoile sera le bienvenu :-)  
 To support me a little star will be welcome :-)
+
+<h2>Version of Pterodactyl</h2>
+Pterodactyl Version
+
+| Version | Supported          | Link |
+| ------- | ------------------ | ---------------- |  
+| 1.10.1   | :white_check_mark: |[Version 1.10.1](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.10.1)|
+| <1.10.1   | :x:                | NONE |
