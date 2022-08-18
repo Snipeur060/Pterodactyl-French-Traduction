@@ -6,6 +6,7 @@
  * in the event name. If there is no colon present, they should live at
  * the top level.
  */
+
 return [
     'auth' => [
         'fail' => 'Échec de la connexion',
