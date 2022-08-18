@@ -25,3 +25,4 @@ return [
     'password_requirements' => 'Le mot de passe doit comporter au moins 8 caractères et doit être unique pour ce site.',
     '2fa_must_be_enabled' => 'L\'administrateur a demandé que l\'authentification à 2 facteurs soit activée pour votre compte afin d\'utiliser le Panel.',
 ];
+
