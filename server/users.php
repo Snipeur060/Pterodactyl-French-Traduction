@@ -1,0 +1,33 @@
+<?php
+
+return [
+    'permissions' => [
+        'websocket_*' => 'Autorise l\'accès au websocket pour ce serveur.',
+        'control_console' => 'Permet à l\'utilisateur d\'envoyer des données à la console du serveur.',
+        'control_start' => 'Permet à l\'utilisateur de démarrer l\'instance de serveur.',
+        'control_stop' => 'Permet à l\'utilisateur d\'arrêter l\'instance de serveur.',
+        'control_restart' => 'Permet à l\'utilisateur de redémarrer l\'instance de serveur.',
+        'control_kill' => 'Permet à l\'utilisateur de tuer l\'instance de serveur.',
+        'user_create' => 'Permet à l\'utilisateur de créer de nouveaux comptes d\'utilisateurs pour le serveur.',
+        'user_read' => 'Autorise l\'utilisateur à afficher les utilisateurs associés à ce serveur.',
+        'user_update' => 'Permet à l\'utilisateur de modifier d\'autres utilisateurs associés à ce serveur.',
+        'user_delete' => 'Permet à l\'utilisateur de supprimer d\'autres utilisateurs associés à ce serveur.',
+        'file_create' => 'Autorise l\'utilisateur à créer de nouveaux fichiers et répertoires.',
+        'file_read' => 'Permet à l\'utilisateur de voir les fichiers et dossiers associés à cette instance de serveur, ainsi que d\'afficher leur contenu.',
+        'file_update' => 'Permet à l\'utilisateur de mettre à jour les fichiers et dossiers associés au serveur.',
+        'file_delete' => 'Permet à l\'utilisateur de supprimer des fichiers et des répertoires.',
+        'file_archive' => 'Permet à l\'utilisateur de créer des archives de fichiers et de décompresser des archives existantes.',
+        'file_sftp' => 'Permet à l\'utilisateur d\'effectuer les actions de fichier ci-dessus à l\'aide d\'un client SFTP.',
+        'allocation_read' => 'Permet d\'accéder aux pages de gestion de l\'allocation du serveur.',
+        'allocation_update' => 'Autorise l\'utilisateur à apporter des modifications aux allocations du serveur.',
+        'database_create' => 'Autorise l\'utilisateur à créer une nouvelle base de données pour le serveur.',
+        'database_read' => 'Autorise l\'utilisateur à afficher les bases de données du serveur.',
+        'database_update' => 'Autorise un utilisateur à apporter des modifications à une base de données. Si l\'utilisateur ne dispose pas non plus de l\'autorisation "Afficher le mot de passe", il ne pourra pas modifier le mot de passe.',
+        'database_delete' => 'Autorise un utilisateur à supprimer une instance de base de données.',
+        'database_view_password' => 'Autorise un utilisateur à afficher un mot de passe de base de données dans le système.',
+        'schedule_create' => 'Permet à un utilisateur de créer un nouveau calendrier pour le serveur.',
+        'schedule_read' => 'Autorise un utilisateur à afficher les horaires d\'un serveur.',
+        'schedule_update' => 'Autorise un utilisateur à apporter des modifications à une planification de serveur existante.',
+        'schedule_delete' => 'Permet à un utilisateur de supprimer un horaire pour le serveur.',
+    ],
+];
