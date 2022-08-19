@@ -4,7 +4,10 @@
 <p align="center"><img src="https://socialify.git.ci/Snipeur060/French-Traduction-Pterodactyl/image?description=1&amp;descriptionEditable=Ajout%20de%20la%20traduction%20fran%C3%A7aise%20au%20Panel%20Pterodactyl%20(Fini%20%C3%A0%20100%25)&amp;font=Source%20Code%20Pro&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
 <p id="description">French-Traduction-Pterodactyl est la traduction française de pterodactyl French-Traduction-Pterodactyl is the French translation of pterodactyl</p>
-https://french-translate.snipeur060.com/
+<h2> 🗺 Website:</h2><br>
+```
+https://french-translate.snipeur060.com/ <br>
+```
 <p align="center"><img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&amp;logo=php&amp;logoColor=blue" alt="shields"></p>
 
 <h2>🛠️ Installation Steps:</h2>
