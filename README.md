@@ -15,7 +15,7 @@ https://french-translate.snipeur060.com/ <br>
 <p>1. First (Première étape)</p>
 
 ```
-Go to (allez à) var/www/pterodactyl/panel/resources/lang/en/
+Go to (allez à) var/www/pterodactyl/resources/lang/en/
 ```
 
 <p>2. Upload (téléversée)</p>
