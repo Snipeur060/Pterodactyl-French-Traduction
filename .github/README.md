@@ -6,7 +6,7 @@
 <p id="description">French-Traduction-Pterodactyl est la traduction française de pterodactyl French-Traduction-Pterodactyl is the French translation of pterodactyl</p>
 <h2> 🗺 Website:</h2><br>
 
-https://french-translate.snipeur060.github.io/ <br>
+https://french-translate.snipeur060.com/ <br>
 
 <p align="center"><img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&amp;logo=php&amp;logoColor=blue" alt="shields"></p>
 
