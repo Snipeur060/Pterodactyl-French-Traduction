@@ -6,7 +6,7 @@
 <p id="description">French-Traduction-Pterodactyl est la traduction française de pterodactyl French-Traduction-Pterodactyl is the French translation of pterodactyl</p>
 <h2> 🗺 Website:</h2><br>
 
-https://french-translate.snipeur060.com/ <br>
+https://snipeur060.github.io/Pterodactyl-French-Traduction <br>
 
 <p align="center"><img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&amp;logo=php&amp;logoColor=blue" alt="shields"></p>
 
@@ -46,8 +46,8 @@ Pterodactyl Version
 
 | Version | Supported          | Link |
 | ------- | ------------------ | ---------------- |  
-| 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/)|
-| 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/)|
+| 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
+| 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
 | 1.10.1   | :white_check_mark: |[Version 1.10.1](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.10.1)|
 | <1.10.1   | :x:                | NONE |
 
