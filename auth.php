@@ -6,7 +6,7 @@ return [
     'failed' => 'Aucun compte correspondant à ces informations d\'identification n\'a pu être trouvé.',
 
     'forgot_password' => [
-        'label' => 'Forgot Password?',
+        'label' => 'Mot de passe oubliée ?',
         'label_help' => 'Entrez l\'adresse e-mail de votre compte pour recevoir des instructions sur la réinitialisation de votre mot de passe.',
         'button' => 'Récupérer le compte',
     ],
