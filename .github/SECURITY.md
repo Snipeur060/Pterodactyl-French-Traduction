@@ -9,6 +9,8 @@ Pterodactyl Version
 
 | Version | Supported          |
 | ------- | ------------------ |
+| 1.11.7   | :white_check_mark: |
+| 1.11.5   | :white_check_mark: |
 | 1.10.1   | :white_check_mark: |
 | <1.10.1   | :x:                |
 

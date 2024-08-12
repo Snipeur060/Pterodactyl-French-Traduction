@@ -116,6 +116,7 @@ return [
         ],
         'settings' => [
             'rename' => 'Renommé le serveur de :old à :new',
+            'description' => 'La description du serveur est passée de :old à :new',
         ],
         'startup' => [
             'edit' => 'Changement de la variable :variable de ":old" à ":new"',

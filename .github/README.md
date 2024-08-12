@@ -46,7 +46,8 @@ Pterodactyl Version
 
 | Version | Supported          | Link |
 | ------- | ------------------ | ---------------- |  
-| 1.11.5  | ⚒️                 | Working on ... |
+| 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/)|
+| 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/)|
 | 1.10.1   | :white_check_mark: |[Version 1.10.1](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.10.1)|
 | <1.10.1   | :x:                | NONE |
 
