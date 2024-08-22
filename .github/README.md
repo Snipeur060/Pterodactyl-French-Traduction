@@ -16,6 +16,7 @@ https://snipeur060.github.io/Pterodactyl-French-Traduction <br>
 
 ```
 Go to (allez à) var/www/pterodactyl/resources/lang/en/
+(cd ../ && cd var/www/pterodactyl/resources/lang/en/)
 ```
 
 <p>2. Upload (téléversée)</p>
