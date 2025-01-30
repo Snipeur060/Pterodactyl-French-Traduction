@@ -91,7 +91,7 @@ return [
             'write_one' => 'Le contenu de :files.0 à été modifié',
             'write_other' => ':count fichiers ont été modifié',
             'delete_one' => 'Suppression de :files.0',
-            'delete_other' => 'SUppression de :count fichiers',
+            'delete_other' => 'Suppression de :count fichiers',
             'create-directory_one' => 'Création de :files.0 directory',
             'create-directory_other' => ':count dossier ont été crée',
             'rename_one' => 'Le fichier à été renommé de :files.0.from à :files.0.to',
