@@ -10,6 +10,21 @@ https://snipeur060.github.io/Pterodactyl-French-Traduction <br>
 
 <p align="center"><img src="https://img.shields.io/badge/PHP-white?style=for-the-badge&amp;logo=php&amp;logoColor=blue" alt="shields"></p>
 
+<h2>Version of Pterodactyl</h2>
+Pterodactyl Version
+
+Important : Les dernières versions sont compatibles avec la 1.10.1 et 1.11.x
+(The latest versions are compatible with 1.10.1,1.11.x) 
+
+| Version | Supported          | Link |
+| ------- | ------------------ | ---------------- |  
+| 1.11.10 | :white_check_mark:  | [Version 1.11.10](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
+| 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
+| 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
+| 1.10.1   | :white_check_mark: |[Version 1.10.1](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.10.1)|
+| <1.10.1   | :x:                | NONE |
+
+
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. First (Première étape)</p>
@@ -42,17 +57,4 @@ This project is licensed under the GNU Lesser General Public License v3.0
 Pour me supportez une petite étoile sera le bienvenu :-)  
 To support me a little star will be welcome :-)
 
-<h2>Version of Pterodactyl</h2>
-Pterodactyl Version
-
-Important : Les dernières versions sont compatibles avec la 1.10.1 et 1.11.x
-(The latest versions are compatible with 1.10.1,1.11.x) 
-
-| Version | Supported          | Link |
-| ------- | ------------------ | ---------------- |  
-| 1.11.10 | :white_check_mark:  | [Version 1.11.10](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
-| 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
-| 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
-| 1.10.1   | :white_check_mark: |[Version 1.10.1](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.10.1)|
-| <1.10.1   | :x:                | NONE |
 
