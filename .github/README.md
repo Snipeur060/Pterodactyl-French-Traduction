@@ -22,7 +22,7 @@ Important : Les dernières versions sont compatibles avec la 1.10.1 et 1.11.x
 ⚠️ <1.11.11 Le panel contient une faille je recommende d'update
 | Version | Supported          | Link |
 | ------- | ------------------ | ---------------- |  
-| 1.11.11 | :white_check_mark:  | [Version 1.11.10](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
+| 1.11.11 | :white_check_mark:  | [Version 1.11.11](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
 | 1.11.10 | :white_check_mark:  | [Version 1.11.10](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
 | 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
 | 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
