@@ -1,5 +1,10 @@
 <h1 align="center" id="title">French-Traduction-Pterodactyl</h1>
-<!-- Place this tag where you want the button to render. -->
+
+<h1>⚠️ Hi, the Pterodactyl panel has a minor flaw (like exposing database credentials).
+I recommend updating it.
+CVE-2025-49132
+https://pterodactyl.io/panel/1.0/updating.html</h1>
+
 <a class="github-button" href="https://github.com/Snipeur060/Pterodactyl-French-Traduction" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Snipeur060/Pterodactyl-French-Traduction on GitHub">Star</a>
 <p align="center"><img src="https://socialify.git.ci/Snipeur060/French-Traduction-Pterodactyl/image?description=1&amp;descriptionEditable=Ajout%20de%20la%20traduction%20fran%C3%A7aise%20au%20Panel%20Pterodactyl%20(Fini%20%C3%A0%20100%25)&amp;font=Source%20Code%20Pro&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
@@ -15,9 +20,10 @@ Pterodactyl Version
 
 Important : Les dernières versions sont compatibles avec la 1.10.1 et 1.11.x
 (The latest versions are compatible with 1.10.1,1.11.x) 
-
+⚠️ <1.11.11 Le panel contient une faille je recommende d'update
 | Version | Supported          | Link |
 | ------- | ------------------ | ---------------- |  
+| 1.11.11 | :white_check_mark:  | [Version 1.11.11](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
 | 1.11.10 | :white_check_mark:  | [Version 1.11.10](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.10)|
 | 1.11.7  | :white_check_mark: | [Version 1.11.7](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
 | 1.11.5  | :white_check_mark: | [Version 1.11.5](https://github.com/Snipeur060/Pterodactyl-French-Traduction/releases/tag/1.11.x)|
