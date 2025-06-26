@@ -1,5 +1,9 @@
 <h1 align="center" id="title">French-Traduction-Pterodactyl</h1>
-<!-- Place this tag where you want the button to render. -->
+
+<h1>⚠️ Hi, the Pterodactyl panel has a minor flaw (like exposing database credentials).
+I recommend updating it.
+https://pterodactyl.io/panel/1.0/updating.html</h1>
+
 <a class="github-button" href="https://github.com/Snipeur060/Pterodactyl-French-Traduction" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Snipeur060/Pterodactyl-French-Traduction on GitHub">Star</a>
 <p align="center"><img src="https://socialify.git.ci/Snipeur060/French-Traduction-Pterodactyl/image?description=1&amp;descriptionEditable=Ajout%20de%20la%20traduction%20fran%C3%A7aise%20au%20Panel%20Pterodactyl%20(Fini%20%C3%A0%20100%25)&amp;font=Source%20Code%20Pro&amp;forks=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Circuit%20Board&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
