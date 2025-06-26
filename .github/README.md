@@ -2,6 +2,7 @@
 
 <h1>⚠️ Hi, the Pterodactyl panel has a minor flaw (like exposing database credentials).
 I recommend updating it.
+CVE-2025-49132
 https://pterodactyl.io/panel/1.0/updating.html</h1>
 
 <a class="github-button" href="https://github.com/Snipeur060/Pterodactyl-French-Traduction" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Snipeur060/Pterodactyl-French-Traduction on GitHub">Star</a>
