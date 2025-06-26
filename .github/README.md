@@ -52,7 +52,7 @@ Les fichier dans le dossier All files in the directory
 Restart pterodactyl (Redémarré pterodactyl)
 ```
 
-<p>4. And now Chill (Désormais amusez vous)</p>
+<p>4. And now Chill</p>
 
 <h2>🛡️ License:</h2>
 
